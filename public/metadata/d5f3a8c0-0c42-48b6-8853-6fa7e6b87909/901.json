@@ -1,0 +1,17 @@
+{
+    "token_id": 901,
+    "name": "Metacare Gold Card #1",
+    "description": "Luxury perks for less.\nGet the best of the best benefits available on MetaCare.",
+    "image": "ipfs:/dfjasdflksadf/1.png",
+    "external_url": "https://www.metacare.com",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "All Access"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Gold"
+        }
+    ]
+}

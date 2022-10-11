@@ -1,0 +1,17 @@
+{
+    "token_id": 1,
+    "name": "Metacare Standard Card #1",
+    "description": "Value for your money\nEnjoy discounted benefits with this low-cost membership plan.",
+    "image": "ipfs:/dfjasdflksadf/1.png",
+    "external_url": "https://www.metacare.com",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "All Access"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Standard"
+        }
+    ]
+}
