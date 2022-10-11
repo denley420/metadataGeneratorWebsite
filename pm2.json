@@ -1,0 +1,15 @@
+{
+  "apps": [
+    {
+      "name": "ExcelConverter",
+      "script": "run.js",
+      "instances": 2,
+      "exec_mode": "cluster_mode",
+      "cwd": "/home/xabi_admin/ExcelConverter",
+      "env": {
+        "PORT": 5001,
+        "NODE_ENV": "production"
+      }
+    }
+  ]
+}
